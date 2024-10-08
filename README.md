@@ -3,7 +3,7 @@ The eInvoice Generator is a comprehensive tool designed to streamline the invoic
 
 <br>You may modify the invoice_template.docx with your own template design. Remember to replace the following variables:<br>
 
-1. {CompanyName}<br>
+<b>1. {CompanyName}<br>
 2. {CompanyAddress}<br>
 3. {InvoiceNo}<br>
 4. {InvoiceDate}<br>
@@ -14,4 +14,4 @@ The eInvoice Generator is a comprehensive tool designed to streamline the invoic
 9. {TotalPrice}<br>
 10. {TotalAmount}<br>
 11. {SSMNumber}<br>
-12. {PhoneNumber}<br>
+12. {PhoneNumber}<br></b>
