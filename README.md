@@ -1,1 +1,2 @@
 # eInvoice-Generator
+This eInvoice Generator is a comprehensive tool designed to streamline the invoicing process for businesses. It allows users to effortlessly store company information, generate invoices with detailed data, and export them in a Word (.docx) format for easy printing. With an intuitive interface and robust functionality, this tool aims to enhance efficiency and accuracy in billing, making it the ultimate solution for managing invoices.
